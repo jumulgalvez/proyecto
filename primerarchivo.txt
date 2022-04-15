@@ -3,3 +3,4 @@
 3 Esta de vacaciones
 4 se crearon llaves
 5 Se hizo push con llaves ssh
+6 Se comprobo funcona la llave ssh
